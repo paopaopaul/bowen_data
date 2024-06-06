@@ -1,0 +1,28 @@
+Copyright (c) 2024, Zisheng Ling
+
+Grant of License
+
+Zisheng Ling ("Licensor") hereby grants to Shengbo Yuan ("Licensee") a non-exclusive, non-transferable license to use the Bowen Data Project (the "Software") subject to the terms and conditions set forth in this Agreement.
+
+Ownership
+The Licensor asserts that it holds and retains copyright and any and all applicable rights to the Software. Ownership of the Software, including all intellectual property rights therein, is expressly not transferred to the Licensee, unless otherwise specified in a written and signed agreement.
+
+Use of the Software
+
+The Licensee is permitted to:
+- Use the Software for personal or internal business purposes.
+- Modify the Software for personal use or internal business operation.
+- Distribute the Software within their organization.
+
+The Licensee is NOT permitted to:
+- Sell, lease, license, or sublicense the Software to third parties.
+- Distribute or make the Software available over a network where it could be used by multiple users, unless explicitly authorized by the Licensor.
+
+Warranty and Liability
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE LICENSOR MAKES NO WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, REGARDING THE MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE SOFTWARE. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE.
+
+Termination
+This license is effective until terminated. The License may be terminated by the Licensor immediately if the Licensee fails to comply with any provision of this Agreement. Upon termination, the Licensee must destroy all copies of the Software.
+
+Miscellaneous
+This Agreement constitutes the entire agreement between the parties with respect to the use of the Software licensed hereunder and supersedes all prior or contemporaneous understandings regarding such subject matter.
